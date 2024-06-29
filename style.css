@@ -124,7 +124,7 @@ span {
   color: hsl(228, 45%, 44%);
 }
 
-@media (min-width: 375px) {
+@media (max-width: 500px) {
   .container {
     margin: 10rem auto;
     padding: 2rem;
