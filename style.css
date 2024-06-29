@@ -88,16 +88,6 @@ p:last-child {
   margin-top: 1rem;
 }
 
-.nutrition ul li {
-  padding: 1rem;
-  list-style: none;
-  display: flex;
-  text-align: left;
-  justify-content: space-around;
-  padding: 0.5rem 0;
-  border-bottom: 1px solid hsl(30, 18%, 87%);
-}
-
 .nutrition ul li:last-child {
   border-bottom: none;
 }
